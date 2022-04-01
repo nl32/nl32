@@ -1,4 +1,4 @@
-- 👋 Hi, I’m nl32
+- 👋 Hi, I’m Ethan Bickel
 - 👀 I’m interested in computer science and code design
 - 🌱 I’m currently working on many serverside projects in the fabricMC ecosystem
 - I haven't touched my github in a while but I'll hopefully start putting stuff up soon.
