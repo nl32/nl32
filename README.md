@@ -1,4 +1,4 @@
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl32)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nl32?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👋 Hi, I’m Ethan Bickel
