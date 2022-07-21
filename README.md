@@ -3,5 +3,5 @@
 
 - 👋 Hi, I’m Ethan Bickel
 - 👀 I’m interested in computer science and code design
-- 🌱 I’m currently working on many serverside projects in the fabricMC ecosystem
-- I haven't touched my github in a while but I'll hopefully start putting stuff up soon.
+- 🌱 I’m currently working on many serverside projects in the Quilt MC ecosystem
+- Also doing web dev now with React and Next.js
